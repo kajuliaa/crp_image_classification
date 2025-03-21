@@ -39,6 +39,11 @@ Once the previous steps are completed, start the Streamlit dashboard with the fo
 streamlit run App/index.py
 ```
 
+## User Path
+1. ![Diagramm zur Architektur](images/select-image.png)
+
+
+
 ## Repository structure
 
 - `App`: Contains the Streamlit dashboard.
