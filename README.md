@@ -40,7 +40,15 @@ streamlit run App/index.py
 ```
 
 ## User Path
-1. ![Diagramm zur Architektur](images/select-image.png)
+1. Select Teapot image from preclassified images.
+   ![Select Image](images/select-image.png)
+2. Take a look at contrastive image chosen by algorithm:
+   ![Teapot-Vase](images/teapot-vase.png)
+3. Name the concepts
+   ![Concepts-teapot](images/concepts-teapot.png)
+   ![Concepts-vase](images/concepts-vase.png)
+4. Confirm the generation of explanation
+   ![Concept-based-contrastive-explanation](images/contrastive-explanation.png)
 
 
 
